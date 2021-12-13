@@ -1,0 +1,9 @@
+﻿<Application x:Class="Sys5Task_T9Keyboard.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Sys5Task_T9Keyboard"
+             StartupUri="MVVM/Views/T9Keyboard.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
